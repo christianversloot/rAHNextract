@@ -18,7 +18,6 @@ Imports:
     raster,
     lidR (>= 2.2.3)
 Suggests:
-    sp,
     knitr,
     rmarkdown
 Depends:
